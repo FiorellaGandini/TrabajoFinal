@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SoldOut - Eventos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- 1. Banner Superior (Estilo PlateaVip) -->
+    <header class="hero-banner">
+        <div class="logo">SoldOut</div>
+    </header>
+
+    <!-- 2. Buscador Centrado (Estilo PlateaVip) -->
+    <div class="search-container">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Buscar evento por nombre...">
+            <button class="search-btn">Buscar</button>
+        </div>
+    </div>
+
+    <!-- 3. Botones de Filtro (Estilo TuEntrada) -->
+    <div class="category-filters">
+        <button class="cat-btn active" data-cat="Todos">🎫 Todos</button>
+        <button class="cat-btn" data-cat="Deporte">🏆 Deportes</button>
+        <button class="cat-btn" data-cat="Concierto">🎵 Conciertos</button>
+        <button class="cat-btn" data-cat="Teatro">🎭 Teatro</button>
+        <button class="cat-btn" data-cat="Stand-up">🎤 Stand-up</button>
+        <button class="cat-btn" data-cat="Fiesta">🎉 Fiesta</button>
+        <button class="cat-btn" data-cat="Conferencia">💼 Conferencia</button>
+        <button class="cat-btn" data-cat="Otros">✨ Otros</button>
+    </div>
+
+    <!-- 4. Grilla de Eventos (Estilo TuEntrada) -->
+    <main class="main-content">
+        <h2 class="section-title">Eventos Destacados</h2>
+        <section class="event-grid" id="eventGrid">
+            <!-- Las tarjetas se generan desde JavaScript -->
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

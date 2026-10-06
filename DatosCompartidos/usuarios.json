@@ -1,0 +1,62 @@
+[
+  {
+    "Dni": 30111222,
+    "Nombre": "Lucía Fernández",
+    "Username": "lfernandez",
+    "Rol": 1
+  },
+  {
+    "Dni": 29888777,
+    "Nombre": "Martín Aguirre",
+    "Username": "maguirre",
+    "Rol": 1
+  },
+  {
+    "Dni": 40123456,
+    "Nombre": "Sofía Gómez",
+    "Username": "sgomez",
+    "Rol": 2
+  },
+  {
+    "Dni": 38456789,
+    "Nombre": "Nicolás Pereyra",
+    "Username": "npereyra",
+    "Rol": 2
+  },
+  {
+    "Dni": 41234567,
+    "Nombre": "Valentina Ríos",
+    "Username": "vrios",
+    "Rol": 2
+  },
+  {
+    "Dni": 37654321,
+    "Nombre": "Tomás Ibáñez",
+    "Username": "tibanez",
+    "Rol": 2
+  },
+  {
+    "Dni": 42345678,
+    "Nombre": "Camila Suárez",
+    "Username": "csuarez",
+    "Rol": 2
+  },
+  {
+    "Dni": 39876543,
+    "Nombre": "Agustín Molina",
+    "Username": "amolina",
+    "Rol": 2
+  },
+  {
+    "Dni": 43456789,
+    "Nombre": "Julieta Torres",
+    "Username": "jtorres",
+    "Rol": 2
+  },
+  {
+    "Dni": 36765432,
+    "Nombre": "Bruno Acosta",
+    "Username": "bacosta",
+    "Rol": 2
+  }
+]
