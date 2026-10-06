@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 # 2026-prog1-tpfinal-SoldOut
 Este repositorio corresponde al trabajo final grupal de Gandini, Lagger y Rey. 
-=======
-# TrabajoFinal
-Clon del tp final
->>>>>>> ad5707bbc300fd841683f3334b2cdfdc50ba1db5
